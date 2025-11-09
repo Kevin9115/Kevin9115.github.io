@@ -53,12 +53,12 @@ __Instrucciones Matemáticas:__ Se aplican sobre datos de tipo numérico y permi
 
 <h3 align="center">__ARITMETICOS__</h3>
 
-![IMAGEN NO CARGA](Operadores 1.png)
+![IMAGEN NO CARGA](Operadores1.png)
 
 <h3 align="center">__RELACIONALES__</h3>
 
-![IMAGEN NO CARGA](Operadores_2.png)
+![IMAGEN NO CARGA](Operadores2.png)
 
 <h3 align="center">__LOGICOS__</h3>
 
-![IMAGEN NO CARGA](Operadores_3.png)
+![IMAGEN NO CARGA](Operadores3.png)
