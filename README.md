@@ -51,6 +51,6 @@ __Instrucciones Matemáticas:__ Se aplican sobre datos de tipo numérico y permi
 
 ***OPERADORES:***
 
-__ARITMETICOS__
+<h3 align="center">__ARITMETICOS__</h3>
 
 ![IMAGEN NO CARGA](Operadores_1.png)
