@@ -54,3 +54,11 @@ __Instrucciones Matemáticas:__ Se aplican sobre datos de tipo numérico y permi
 <h3 align="center">__ARITMETICOS__</h3>
 
 ![IMAGEN NO CARGA](Operadores_1.png)
+
+<h3 align="center">__RELACIONALES__</h3>
+
+![IMAGEN NO CARGA](Operadores_2.png)
+
+<h3 align="center">__LOGICOS__</h3>
+
+![IMAGEN NO CARGA](Operadores_3.png)
