@@ -43,4 +43,12 @@ el algoritmo debe cumplir con 3 condiciones: debe resolver un problema, debe ser
 
 ![IMAGEN NO CARGA](Slide_14_Graf1.png)
 
+***TIPOS DE ACCIONES O INSTRUCCIONES DE PROCESAMIENTO:***
 
+__Instrucciones Lógicas:__ Se utilizan únicamente para operar datos de tipo lógico o booleano (verdadero o falso). Las expresiones lógicas dan como resultado otro dato de tipo lógico.
+
+__Instrucciones Matemáticas:__ Se aplican sobre datos de tipo numérico y permiten realizar las operaciones aritméticas o matemáticas.
+
+***OPERADORES:***
+
+__ARITMETICOS__
