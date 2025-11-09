@@ -67,7 +67,9 @@ __Instrucciones Matemáticas:__ Se aplican sobre datos de tipo numérico y permi
 ***EJEMPLO DE CODIGO EN PYTHON:***
 
 nombre = input("Por Favor, Ingresa Tu Nombre: ").
+
 print = (f "¡Hola , {nombre}! Bienvenido. ").
+
 print = ("¡Diste El Primer Paso!").
 
 
