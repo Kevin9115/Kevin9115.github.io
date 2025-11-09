@@ -52,4 +52,5 @@ __Instrucciones Matemáticas:__ Se aplican sobre datos de tipo numérico y permi
 ***OPERADORES:***
 
 __ARITMETICOS__
+
 ![IMAGEN NO CARGA](Operadores 1.png)
