@@ -53,4 +53,4 @@ __Instrucciones Matemáticas:__ Se aplican sobre datos de tipo numérico y permi
 
 __ARITMETICOS__
 
-![IMAGEN NO CARGA](Operadores 1.png)
+![IMAGEN NO CARGA](Operadores_1.png)
