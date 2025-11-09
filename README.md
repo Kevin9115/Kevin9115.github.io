@@ -41,4 +41,6 @@ el algoritmo debe cumplir con 3 condiciones: debe resolver un problema, debe ser
 
 ![IMAGEN NO CARGA](Slide_13_Graf1.png)
 
+![IMAGEN NO CARGA](Slide_14_Graf1.png)
+
 
