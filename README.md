@@ -39,6 +39,6 @@ el algoritmo debe cumplir con 3 condiciones: debe resolver un problema, debe ser
 
 ****CONSTANTES:*** son valores que resultan invariables no solo en el contexto de la ejecución del algoritmo, sino también por fuera e independiente del mismo.
 
-![IMAGEN NO CARGA](ruta/a/tu/imagen.png)
+![IMAGEN NO CARGA](Slide_13_Graf1.png)
 
 
