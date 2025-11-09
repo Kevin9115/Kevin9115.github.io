@@ -50,6 +50,7 @@ __Instrucciones Lógicas:__ Se utilizan únicamente para operar datos de tipo l�
 __Instrucciones Matemáticas:__ Se aplican sobre datos de tipo numérico y permiten realizar las operaciones aritméticas o matemáticas.
 
 
+
 ***OPERADORES:***
 
 
