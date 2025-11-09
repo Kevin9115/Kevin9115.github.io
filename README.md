@@ -82,8 +82,10 @@ Espero aprender mucho durante este tiempo de estudio, es algo que siempre habia 
 
 ***Referencias:***
 
-+Material academico en la plataforma de la IU Digital.
+*Material academico en la plataforma de la IU Digital.
 
-+Gemini: Google. (2025, 9 de noviembre). Cómo subir una imagen a mi repositorio en GitHub [Modelo de lenguaje grande]. https://gemini.google.com/.
+*Gemini: Google. (2025, 9 de noviembre). Cómo subir una imagen a mi repositorio en GitHub [Modelo de lenguaje grande]. https://gemini.google.com/.
 
-+Gemini: Google. (2025, 9 de noviembre). Cómo centrar un título en GitHub [Modelo de lenguaje grande]. https://gemini.google.com/.
+*Gemini: Google. (2025, 9 de noviembre). Cómo centrar un título en GitHub [Modelo de lenguaje grande]. https://gemini.google.com/.
+
+*Google. (2025, 9 de noviembre). Código de ejemplo sencillo en Python: Saludo personalizado [Modelo de lenguaje grande]. https://gemini.google.com/.
