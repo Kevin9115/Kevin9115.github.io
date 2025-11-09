@@ -17,7 +17,7 @@ Compilados: las instrucciones son traducidas en grupo por una aplicación (compi
 Intermedios: en parte compilados, en parte interpretados. Ejemplos: Java, Scala.
 
 
-*PROGRAMA:* es un conjunto de instrucciones ordenadas y escritas en un lenguaje que una computadora puede interpretar y ejecutar para realizar una tarea o función específica. Todo esto dirigido a resolver un problema o suplir alguna necesidad.
+***PROGRAMA:*** es un conjunto de instrucciones ordenadas y escritas en un lenguaje que una computadora puede interpretar y ejecutar para realizar una tarea o función específica. Todo esto dirigido a resolver un problema o suplir alguna necesidad.
 
-*ALGORITMO:* es un conjunto de instrucciones o reglas detalladas, ordenadas que al seguirse permiten resolver un problema específico o realizar una tarea determinada.
-*VARIABLE:*
+***ALGORITMO:*** es un conjunto de instrucciones o reglas detalladas, ordenadas que al seguirse permiten resolver un problema específico o realizar una tarea determinada.
+***VARIABLE:***
