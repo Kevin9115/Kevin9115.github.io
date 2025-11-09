@@ -41,3 +41,5 @@ el algoritmo debe cumplir con 3 condiciones: debe resolver un problema, debe ser
 
 <img width="1000" height="405" alt="Slide_13_Graf1" src="https://github.com/user-attachments/assets/c2374d78-a69c-4f41-8ca3-570239436e11" />
 
+Slide_13_Graf1.png
+
