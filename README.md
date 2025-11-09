@@ -10,7 +10,7 @@ Tambien vimos conceptos como los siguientes:
 
 **Algunos tipos de lenguaje son:**
 
-**Domo son usados por la máquina o sistema operativo:
+**Como son usados por la máquina o sistema operativo:
 
 Interpretados: las instrucciones son traducidas una a una por una aplicación (intérprete). Ejemplos: Python, Perl, Bash.
 
@@ -24,9 +24,11 @@ Alto nivel: la información compleja es representada con objetos simples. Ejempl
 
 Bajo nivel: la información compleja debe representarse literalmente. Ejemplos: Assembly y Machine.
 
+***ENTORNO DE DESARROLLO:*** también conocidos como IDE, Integrated Development Environment, son editores de código diseñados para que los desarrolladores puedan escribir el código. Una IDE muy usada academicamente es Google Colaboratory o Colab. esta es muy practica y facil de usar.
 
 ****PROGRAMA:*** es un conjunto de instrucciones ordenadas y escritas en un lenguaje que una computadora puede interpretar y ejecutar para realizar una tarea o función específica. Todo esto dirigido a resolver un problema o suplir alguna necesidad.
 
-****ALGORITMO:*** es un conjunto de instrucciones o reglas detalladas, ordenadas que al seguirse permiten resolver un problema específico o realizar una tarea determinada.
+****ALGORITMO:*** es un conjunto de instrucciones o reglas detalladas, ordenadas que al seguirse permiten resolver un problema específico o realizar una tarea determinada. Este esta compuesto por 3 elementos basicos "Entradas, Procesos y Salidas".
+Las __entradas__ se refieren a los insumos requeridos para dar solución al problema y se pueden presentar de multiples formas (numeros, nombres, fechas, entre otros). Los __procesos__, conforman las acciones que se encargan de procesar los datos de entrada con el propósito de devolver los resultados esperados. Las __salidas__ son las diferentes formas en que se presentan los resultados del procesamiento de los datos que entraron al algoritmo. Es decir, corresponden a la solución del problema.
 
 ****VARIABLE:***
