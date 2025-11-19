@@ -31,7 +31,7 @@ Las __ENTRADAS__ se refieren a los insumos requeridos para dar solución al prob
 
 Si situaramos al programador y al cliente entre los elemntos del algoritmo; el programador se situaria en las entradas (es el unico que comprende el algoritmo) y el cliente en las salidas (solo le ineteresa el resultado).
 
-el algoritmo debe cumplir con 3 condiciones: debe resolver un problema, debe ser finito y debe interactuar con datos externos y/o variables.
+El algoritmo debe cumplir con 3 condiciones: debe resolver un problema, debe ser finito y debe interactuar con datos externos y/o variables.
 
 ****VARIABLES:*** son los espacios en memoria en los cuales se almacenan, de manera temporal, los datos que serán utilizados en el procesamiento para la obtención del resultado esperado en el algoritmo.
 
