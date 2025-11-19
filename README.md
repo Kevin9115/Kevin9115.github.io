@@ -16,7 +16,7 @@ Compilados: las instrucciones son traducidas en grupo por una aplicación (compi
 
 Intermedios: en parte compilados, en parte interpretados. Ejemplos: Java, Scala.
 
-**De acuerdo a su nivel de abstracción:
+**De acuerdo a su nivel de abstracción:**
 
 Alto nivel: la información compleja es representada con objetos simples. Ejemplos: Python, C++, C#, Java.
 
