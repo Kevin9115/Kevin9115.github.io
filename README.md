@@ -8,7 +8,7 @@ Tambien vimos conceptos como los siguientes:
 
 **Algunos tipos de lenguaje son:**
 
-**Como son usados por la máquina o sistema operativo:
+**Como son usados por la máquina o sistema operativo:**
 
 Interpretados: las instrucciones son traducidas una a una por una aplicación (intérprete). Ejemplos: Python, Perl, Bash.
 
