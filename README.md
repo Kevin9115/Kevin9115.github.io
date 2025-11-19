@@ -1,6 +1,22 @@
 # 🧠 Mi Primera Página: PENSAMIENTO ALGORÍTMICO
 
 ---
+## 📖 Índice de Contenidos
+
+* [💻 Conceptos Fundamentales de la Programación](#-conceptos-fundamentales-de-la-programación)
+    * [LENGUAJE DE PROGRAMACIÓN](#lenguaje-de-programación)
+    * [ENTORNO DE DESARROLLO (IDE)](#entorno-de-desarrollo-ide)
+    * [PROGRAMA](#programa)
+    * [ALGORITMO](#algoritmo)
+* [💾 Almacenamiento y Operaciones](#-almacenamiento-y-operaciones)
+    * [VARIABLES Y CONSTANTES](#variables-y-constantes)
+    * [TIPOS DE ACCIONES O INSTRUCCIONES DE PROCESAMIENTO](#tipos-de-acciones-o-instrucciones-de-procesamiento)
+    * [OPERADORES](#operadores)
+* [💡 Ejemplo de Código](#-ejemplo-de-código)
+* [REFLEXIÓN PERSONAL](#reflexión-personal)
+* [Referencias](#referencias)
+
+---
 
 Durante las primeras clases, el profesor Juan Camilo nos dio una breve introducción a lo que es este gran mundo de la **programación**. Empezó hablando sobre cómo fueron los inicios de las computadoras, dándonos como ejemplo "**El Ábaco**" que, si lo pensáramos bien, fue el principio de lo que actualmente conocemos como computador.
 
