@@ -89,10 +89,10 @@ print(f"¡Hola , {nombre}! Bienvenido. ")
 
 print("¡Diste El Primer Paso!) ` ``` `
 
-
+```
 ---
 
-# REFLEXIÓN PERSONAL
+### **REFLEXIÓN PERSONAL**
 Para mí, el curso me ha dado a conocer y entender un poco de todo lo que conlleva hacer una computadora, una app, un programa. Cualquier software que estemos utilizando es un mundo gigante; y que para ello tuvieron que intervenir muchas personas. Es un sector en el cual siempre se aprende, ya que a diario vemos cómo la civilización avanza y son más los requerimientos que se presentan. Es una profesión en la cual nunca se deja de aprender. Es algo que siempre había querido conocer y estudiar, y acá vamos paso a paso.
 
 Referencias:
