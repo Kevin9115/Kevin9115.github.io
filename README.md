@@ -42,6 +42,8 @@ Es un conjunto de **instrucciones ordenadas** que una computadora puede interpre
 
 ### **ALGORITMO**
 
+http://googleusercontent.com/image_collection/image_retrieval/69393180543837739_0
+
 Es un conjunto de **instrucciones o reglas detalladas y ordenadas** que al seguirse permiten resolver un problema específico o realizar una tarea determinada.
 
 Está compuesto por 3 elementos básicos: **Entradas**, **Procesos** y **Salidas**.
