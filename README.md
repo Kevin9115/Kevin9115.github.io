@@ -1,6 +1,5 @@
-# Kevin9115.github.io
-Mi Primera Pagina
-PENSAMIENTO ALGORITMICO
+[# Kevin9115.github.io
+Fundamentos de Programación: Pensamiento Algorítmico
 
 Durante las primeras clases que hemos tenido hasta el momento, primeramente el profesor Juan Camilo nos dio una breve introduccion a lo que es este gran mundo de la programacion. empezando hablar sobre como fueron los inicios de las computadoras; dandonos como ejemplo "El Abaco" que si lo llegaramos a pensar bien, fue el principio de lo que actual conocemos como computador.
 
@@ -88,4 +87,4 @@ Espero aprender mucho durante este tiempo de estudio, es algo que siempre habia 
 
 *Gemini: Google. (2025, 9 de noviembre). Cómo centrar un título en GitHub [Modelo de lenguaje grande]. https://gemini.google.com/.
 
-*Google. (2025, 9 de noviembre). Código de ejemplo sencillo en Python: Saludo personalizado [Modelo de lenguaje grande]. https://gemini.google.com/.
+*Google. (2025, 9 de noviembre). Código de ejemplo sencillo en Python: Saludo personalizado [Modelo de lenguaje grande]. https://gemini.google.com/.](https://introsoft-iud.github.io/pensamiento_algoritmico_repo/unidades/unidad1/#la-funcion-input)
