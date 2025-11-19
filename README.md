@@ -42,7 +42,7 @@ Es un conjunto de **instrucciones ordenadas** que una computadora puede interpre
 
 ### **ALGORITMO**
 
-![Tabla de operadores Aritméticos, Relacionales y Lógicos](img/Algoritmo1.jpg)
+<img src="img/Algoritmo1.jpg" width="50%" alt="ALGORITMOS" />
 
 Es un conjunto de **instrucciones o reglas detalladas y ordenadas** que al seguirse permiten resolver un problema específico o realizar una tarea determinada.
 
