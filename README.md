@@ -90,19 +90,14 @@ print(f"¡Hola , {nombre}! Bienvenido. ")
 print("¡Diste El Primer Paso!")
 
 
+# REFLEXIÓN PERSONAL
+Para mí, el curso me ha dado a conocer y entender un poco de todo lo que conlleva hacer una computadora, una app, un programa. Cualquier software que estemos utilizando es un mundo gigante; y que para ello tuvieron que intervenir muchas personas. Es un sector en el cual siempre se aprende, ya que a diario vemos cómo la civilización avanza y son más los requerimientos que se presentan. Es una profesión en la cual nunca se deja de aprender. Es algo que siempre había querido conocer y estudiar, y acá vamos paso a paso.
 
-***REFLEXION:***
+Referencias:
+Material académico en la plataforma de la IU Digital.
 
-Para mi en lo que llevo del curso me ha dado a conocer y entender un poco de todo lo que conlleva hacer una computadora, una app, un programa. Cualquier software que estemos utilizando es un mundo gigante; y que para ello tuvieron que intervenir muchas personas, trabajar en equipo y cumplir con unos requsistos especificos. Es un sector en el cual siempre se aprende, ya que a diario vemos como la civilizacion avanza y son mas los requerimientos que se presentan, entonces es una profesion en la cual nunca se deja de aprender, es una profesion que llegado al caso se decide por tomar, se debe de hacer de corazon. 
-Espero aprender mucho durante este tiempo de estudio, es algo que siempre habia querido conocer y estudiar, pero que por malas decisiones no lo habia hecho. Pero nunca es tarde para aprender y aca vamos paso a paso. Muchas gracias.
+Gemini: Google. (2025, 9 de noviembre). Cómo subir una imagen a mi repositorio en GitHub [Modelo de lenguaje grande]. https://gemini.google.com/.
 
+Gemini: Google. (2025, 9 de noviembre). Cómo centrar un título en GitHub [Modelo de lenguaje grande]. https://gemini.google.com/.
 
-***Referencias:***
-
-*Material academico en la plataforma de la IU Digital.
-
-*Gemini: Google. (2025, 9 de noviembre). Cómo subir una imagen a mi repositorio en GitHub [Modelo de lenguaje grande]. https://gemini.google.com/.
-
-*Gemini: Google. (2025, 9 de noviembre). Cómo centrar un título en GitHub [Modelo de lenguaje grande]. https://gemini.google.com/.
-
-*Google. (2025, 9 de noviembre). Código de ejemplo sencillo en Python: Saludo personalizado [Modelo de lenguaje grande]. https://gemini.google.com/.](https://introsoft-iud.github.io/pensamiento_algoritmico_repo/unidades/unidad1/#la-funcion-input)
+Google. (2025, 9 de noviembre). Código de ejemplo sencillo en Python: Saludo personalizado [Modelo de lenguaje grande]. https://gemini.google.com/.
