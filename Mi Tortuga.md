@@ -20,9 +20,9 @@ print (" _ " * (pasos_adelante - 1) + tortuga)
     RETO NRO. 2
 </h1>
 
-
-
 ![IMAGEN NO CARGA](img/reto_2.JPG)
+
+Este reto no estuvo demasiado dificil, ya que me base en el anterior, lo unico que debi buscar fue como hacer el salto de linea sin tener que repetir varias veces la funcion "Print".
 
 ````
 Python
@@ -32,3 +32,7 @@ pasos_abajo= int (input("Ingrese el número de pasos hacia abajo: "))
 print (" \n| " * (pasos_abajo) + tortuga)
 
 ````
+<br>
+<h1 align="center">
+    RETO NRO. 3
+</h1>
