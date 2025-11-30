@@ -1,4 +1,6 @@
-RETO NRO. 1 
+<h1 align="center">
+    RETO NRO. 1
+</h1>
 
 ![IMAGEN NO CARGA](img/reto_1.JPG)
 
@@ -9,7 +11,24 @@ Hasta que le pregunte a la IA "GEMINI" y me recomendo resetear el kernel, despue
 Python
 
 tortuga = "🐢"
-pasos = int (input("Ingrese el número de pasos: "))
-print (" _ " * pasos + tortuga)
+pasos_adelante= int (input("Ingrese el número de pasos hacia adelante: "))
+print (" _ " * (pasos_adelante - 1) + tortuga)
+
+````
+<br>
+<h1 align="center">
+    RETO NRO. 2
+</h1>
+
+
+
+![IMAGEN NO CARGA](img/reto_2.JPG)
+
+````
+Python
+
+tortuga = "🐢"
+pasos_abajo= int (input("Ingrese el número de pasos hacia abajo: "))
+print (" \n| " * (pasos_abajo) + tortuga)
 
 ````
