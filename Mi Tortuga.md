@@ -61,6 +61,8 @@ print(espacios + tortuga)
 
 ![IMAGEN NO CARGA](img/reto_4.JPG)
 
+En este reto me fue mal, casi no logro dar con la solucion, aunque no lo pude ensayar; ya que en VSC no me corre el programa y por la terminal me dice que el directorio no existe. Debido a esto le pregunte a GEMINI que si el codigo estaba correcto, a lo cual me respondio que "SI".
+
 ````
 Python
 
