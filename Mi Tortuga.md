@@ -54,3 +54,30 @@ print(camino_abajo * (pasos_abajo - 1), end='')
 print(espacios + tortuga)
 
 ````
+<br>
+<h1 align="center">
+    RETO NRO. 4
+</h1>
+
+![IMAGEN NO CARGA](img/reto_4.JPG)
+
+````
+Python
+
+tortuga = "🐢"
+espacios = ""
+camino_abajo = ""
+
+def adelante():
+    pasos_adelante= int (input("Ingrese el número de pasos hacia adelante: "))
+    print ("_ " * pasos_adelante)
+    global espacios, camino_abajo
+    espacios = " " * pasos_adelante
+    camino_abajo = espacios + "|\n"
+def abajo():
+    global espacios, camino_abajo
+    pasos_abajo= int (input("Ingrese el número de pasos hacia abajo: "))
+    print(camino_abajo * (pasos_abajo - 1), end='')
+    print(espacios + tortuga)
+
+````
