@@ -110,5 +110,5 @@ Google. (2025, 9 de noviembre). Código de ejemplo sencillo en Python: Saludo pe
 ---
 ---
  
-[🐢 RETOS: LA TORTUGA](Mi#Tortuga.md)
+[🐢 RETOS: LA TORTUGA]([Mi#Tortuga.md](https://github.com/Kevin9115/Kevin9115.github.io/blob/main/Mi%20Tortuga.md))
 
