@@ -12,7 +12,7 @@ Python
 
 tortuga = "🐢"
 pasos_adelante= int (input("Ingrese el número de pasos hacia adelante: "))
-print (" _ " * (pasos_adelante - 1) + tortuga)
+print ("_ " * (pasos_adelante - 1) + tortuga)
 
 ````
 <br>
@@ -36,3 +36,21 @@ print (" \n| " * (pasos_abajo) + tortuga)
 <h1 align="center">
     RETO NRO. 3
 </h1>
+
+![IMAGEN NO CARGA](img/reto_3.JPG)
+
+Este reto se me complico mucho ya que no era capaz de alinear el camino horizontal con el vertical. Logre hacerlo, gracias a que copie el codigo que hice en GEMINI para saber que era el error. Logre encontrarlo con esta ayuda y lo pude solucionar.
+
+````
+Python
+
+tortuga = "🐢"
+pasos_adelante= int (input("Ingrese el número de pasos hacia adelante: "))
+print ("_ " * pasos_adelante)
+espacios = "  " * pasos_adelante 
+camino_abajo = espacios + "|\n"
+pasos_abajo= int (input("Ingrese el número de pasos hacia abajo: "))
+print(camino_abajo * (pasos_abajo - 1), end='')
+print(espacios + tortuga)
+
+````
