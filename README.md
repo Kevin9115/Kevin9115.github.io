@@ -111,4 +111,4 @@ Google. (2025, 9 de noviembre). Código de ejemplo sencillo en Python: Saludo pe
 ---
  
 
-[🐢 RETOS: lA TORTUGA](Ruta/al/archivo/archivo_destino.ext)
+[🐢 RETOS: lA TORTUGA](Mi Tortuga.md)
