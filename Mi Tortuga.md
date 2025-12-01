@@ -83,3 +83,9 @@ def abajo():
     print(espacios + tortuga)
 
 ````
+<br>
+<h1 align="center">
+    RETO NRO. 5
+</h1>
+
+![IMAGEN NO CARGA](img/reto_5.JPG)
