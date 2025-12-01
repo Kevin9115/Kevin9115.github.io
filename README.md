@@ -105,3 +105,10 @@ Gemini: Google. (2025, 9 de noviembre). Cómo subir una imagen a mi repositorio 
 Gemini: Google. (2025, 9 de noviembre). Cómo centrar un título en GitHub [Modelo de lenguaje grande]. https://gemini.google.com/.
 
 Google. (2025, 9 de noviembre). Código de ejemplo sencillo en Python: Saludo personalizado [Modelo de lenguaje grande]. https://gemini.google.com/.
+
+
+---
+---
+ 
+
+[🐢 RETOS: lA TORTUGA](Ruta/al/archivo/archivo_destino.ext)
