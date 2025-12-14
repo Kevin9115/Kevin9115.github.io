@@ -67,20 +67,24 @@ En este reto me fue mal, casi no logro dar con la solucion, aunque no lo pude en
 Python
 
 tortuga = "🐢"
-espacios = ""
-camino_abajo = ""
+espacios = "0"
 
-def adelante():
-    pasos_adelante= int (input("Ingrese el número de pasos hacia adelante: "))
+def adelante(pasos_adelante):
+    #pasos_adelante= int (input("Ingrese el número de pasos hacia adelante: "))
     print ("_ " * pasos_adelante)
     global espacios, camino_abajo
     espacios = " " * pasos_adelante
-    camino_abajo = espacios + "|\n"
-def abajo():
+    camino_abajo = espacios + "    |\n"
+    
+def abajo(pasos_abajo):
     global espacios, camino_abajo
-    pasos_abajo= int (input("Ingrese el número de pasos hacia abajo: "))
-    print(camino_abajo * (pasos_abajo - 1), end='')
-    print(espacios + tortuga)
+    #pasos_abajo= int (input("Ingrese el número de pasos hacia abajo: "))
+    print(camino_abajo * (pasos_abajo - 1),  end='')
+    print(espacios + "    " + tortuga)
+    
+
+adelante(5)
+abajo(3)
 
 ````
 <br>
