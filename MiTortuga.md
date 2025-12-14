@@ -70,7 +70,6 @@ tortuga = "🐢"
 espacios = "0"
 
 def adelante(pasos_adelante):
-    #pasos_adelante= int (input("Ingrese el número de pasos hacia adelante: "))
     print ("_ " * pasos_adelante)
     global espacios, camino_abajo
     espacios = " " * pasos_adelante
@@ -78,7 +77,6 @@ def adelante(pasos_adelante):
     
 def abajo(pasos_abajo):
     global espacios, camino_abajo
-    #pasos_abajo= int (input("Ingrese el número de pasos hacia abajo: "))
     print(camino_abajo * (pasos_abajo - 1),  end='')
     print(espacios + "    " + tortuga)
     
