@@ -91,3 +91,44 @@ abajo(3)
 </h1>
 
 ![IMAGEN NO CARGA](img/reto_5.JPG)
+
+Este reto logre resolverlo gracias a la guia del profesor, aunque luche un poco para lograrlo. A lo ultimo logre hacerlo y ponerlo esteticamente mejor.
+
+
+````
+Python
+
+#SOLUCION RETO NRO 5
+
+tortuga = "🐢"
+espacios = 0
+
+def adelante(pasos_adelante):
+    
+    global espacios
+    print (espacios * "  " + " _" * pasos_adelante)
+    espacios = espacios + pasos_adelante
+    
+    
+def abajo(pasos_abajo):
+    
+    global espacios
+    for i in range(pasos_abajo):
+        camino_abajo = "  " * espacios + "|\n"
+        print(camino_abajo, end='')
+    print("  " * espacios + tortuga)
+
+
+
+adelante(5)
+abajo(3)
+
+adelante(5)
+abajo(3)
+
+adelante(5)
+abajo(3)
+
+````
+
+
