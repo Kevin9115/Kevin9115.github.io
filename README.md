@@ -117,3 +117,8 @@ Google. (2025, 9 de noviembre). Código de ejemplo sencillo en Python: Saludo pe
  
 [🐢 ACTIVIDAD 3 EJERCICIO 1](https://github.com/Kevin9115/Activ3Ejercicio1)
 
+---
+---
+ 
+[🐢 ACTIVIDAD 3 EJERCICIO 1](https://github.com/Kevin9115/Activ3Ejercicio2)
+
