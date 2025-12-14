@@ -112,7 +112,7 @@ def adelante(pasos_adelante):
     
 def abajo(pasos_abajo):
     
-    for i in range(pasos_abajo):
+    for i in range(pasos_abajo - 1):
         camino_abajo = "  " * espacios + "|\n"
         print(camino_abajo, end='')
     print("  " * espacios + tortuga)
