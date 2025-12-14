@@ -112,7 +112,6 @@ def adelante(pasos_adelante):
     
 def abajo(pasos_abajo):
     
-    global espacios
     for i in range(pasos_abajo):
         camino_abajo = "  " * espacios + "|\n"
         print(camino_abajo, end='')
